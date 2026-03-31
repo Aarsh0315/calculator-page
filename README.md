@@ -51,13 +51,12 @@ project/
 
 ## 📸 Preview
 
-(Add your screenshot here)
+<img width="1902" height="913" alt="image" src="https://github.com/user-attachments/assets/55d724e9-da18-478f-a017-b393c72bfa60" />
 
----
 
 ## 🔗 Live Demo
 
-(Add your GitHub Pages link here)
+[(Add your GitHub Pages link here)](https://aarsh0315.github.io/calculator-page/)
 
 ---
 
